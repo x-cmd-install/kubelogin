@@ -5,7 +5,7 @@ about:
   head: 77788c5
   archived: false
   latestVersion: "v0.2.19"
-  collectedAt: 2026-09-08T01:49:43Z
+  collectedAt: 2026-09-08T04:48:43Z
 timeline:
   created: 2020-03-25
   lastCommit: 2026-09-01
@@ -15,7 +15,7 @@ popularity:
   watcher: 18
   fork: 126
   release: 63
-  contributor: 2952
+  contributor: 2950
   pullRequest: 568
   issue: 220
 language:
@@ -82,7 +82,7 @@ total:
   commit: 349
 ---
 path: /home/runner/.x-repo/github.com/Azure/kubelogin
-collectedAt: 2026-09-08T01:49:44Z
+collectedAt: 2026-09-08T04:48:45Z
 loc:
   Go:
     code: 10700
