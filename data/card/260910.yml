@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.19"
   latestRelease: "v0.2.19"
   latestPrerelease: "v0.2.6"
-  collectedAt: 2026-09-10T04:35:06Z
+  collectedAt: 2026-09-10T16:20:24Z
 timeline:
   created: 2020-03-25
   lastCommit: 2026-09-01
@@ -86,7 +86,7 @@ total:
   commit: 349
 ---
 path: /home/runner/.x-repo/github.com/Azure/kubelogin
-collectedAt: 2026-09-10T04:35:07Z
+collectedAt: 2026-09-10T16:20:26Z
 loc:
   Go:
     code: 10700
