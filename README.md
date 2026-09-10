@@ -23,7 +23,28 @@ x install kubelogin
 - **Latest**: `v0.2.19` (2026-06-23)
 - **Last commit**: 2026-09-01
 - **Assets in release**: 17
-- **Published**: 2026-06-23T19:24:08Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [kubelogin-darwin-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-amd64.zip) | 28.4 MiB | `native/darwin/x64` |
+| [kubelogin-darwin-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-amd64.zip.sha256) | 93 B | `native/darwin/x64` |
+| [kubelogin-darwin-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-arm64.zip) | 25.8 MiB | `native/darwin/arm64` |
+| [kubelogin-darwin-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-arm64.zip.sha256) | 93 B | `native/darwin/arm64` |
+| [kubelogin-linux-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-amd64.zip) | 23.3 MiB | `native/linux/x64` |
+| [kubelogin-linux-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-amd64.zip.sha256) | 92 B | `native/linux/x64` |
+| [kubelogin-linux-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-arm64.zip) | 21.1 MiB | `native/linux/arm64` |
+| [kubelogin-linux-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-arm64.zip.sha256) | 92 B | `native/linux/arm64` |
+| [kubelogin-linux-armv7.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-armv7.zip) | 21.6 MiB | `native/linux/arm` |
+| [kubelogin-linux-armv7.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-armv7.zip.sha256) | 92 B | `native/linux/arm` |
+| [kubelogin-version.txt](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-version.txt) | 7 B | `other` |
+| [kubelogin-win-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-amd64.zip) | 23.6 MiB | `other` |
+| [kubelogin-win-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-amd64.zip.sha256) | 90 B | `other` |
+| [kubelogin-win-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-arm64.zip) | 21.2 MiB | `other` |
+| [kubelogin-win-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-arm64.zip.sha256) | 90 B | `other` |
+| [kubelogin.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin.zip) | 165.0 MiB | `other` |
+| [kubelogin.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin.zip.sha256) | 80 B | `other` |
 
 ## Popularity
 
@@ -68,8 +89,8 @@ Lowest-scoring checks:
 Install metadata for kubelogin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubelogin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kubelogin.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kubelogin.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:35:11Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:20:32Z._
