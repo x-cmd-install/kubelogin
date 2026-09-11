@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 29803406,
       "digest": "sha256:4cddc8606035b46235e5507c7c326777c2f31ffaf2a0c6228476284e873582ea",
-      "download_count": 5567,
+      "download_count": 5592,
       "created_at": "2026-06-23T18:06:52Z",
       "updated_at": "2026-06-23T18:06:53Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-amd64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:56447471c27b00a15dcd12d8e204d83b97d39d3abe3a2c19a2f2f579bfd31f04",
-      "download_count": 3332,
+      "download_count": 3345,
       "created_at": "2026-06-23T18:07:03Z",
       "updated_at": "2026-06-23T18:07:04Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-amd64.zip.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 27104165,
       "digest": "sha256:dd46ad1d9bd9f7c55e4d7a353e648a194dced7fced85ca463b79dbede96af945",
-      "download_count": 30678,
+      "download_count": 30829,
       "created_at": "2026-06-23T18:06:54Z",
       "updated_at": "2026-06-23T18:06:55Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:dbebae3dcc7a42fe006fa0f5e10b55dadd824839afd4ae1d640430c8d486bf73",
-      "download_count": 4265,
+      "download_count": 4273,
       "created_at": "2026-06-23T18:07:04Z",
       "updated_at": "2026-06-23T18:07:04Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-arm64.zip.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 24442328,
       "digest": "sha256:ebaeff02aa899c5cae6a2b954b64fc02738185319df2570f7dc053451efa4b2f",
-      "download_count": 1396395,
+      "download_count": 1403277,
       "created_at": "2026-06-23T18:06:56Z",
       "updated_at": "2026-06-23T18:06:57Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:eb86b070d006adf34a3b2a7692bb5da60b0b4654f89a5267e0a121996c566c7d",
-      "download_count": 427220,
+      "download_count": 429314,
       "created_at": "2026-06-23T18:07:05Z",
       "updated_at": "2026-06-23T18:07:05Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-amd64.zip.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 22119407,
       "digest": "sha256:aad7e7ca2a8e67db15b110e535123c1bc0f31ef488f5d3ab5b9ae7c9de6f48d3",
-      "download_count": 22344,
+      "download_count": 22593,
       "created_at": "2026-06-23T18:06:58Z",
       "updated_at": "2026-06-23T18:06:59Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:f0f1240cad05bd37e8469785bf80bedce9984ec29ff2e5af71ca295790f89bfb",
-      "download_count": 3330,
+      "download_count": 3342,
       "created_at": "2026-06-23T18:07:05Z",
       "updated_at": "2026-06-23T18:07:06Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-arm64.zip.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 22694587,
       "digest": "sha256:975dd37eff36977a49e7d8cd0ba2bcb4ffcfb644e35c793884c65b4e99777f20",
-      "download_count": 2580,
+      "download_count": 2585,
       "created_at": "2026-06-23T18:06:59Z",
       "updated_at": "2026-06-23T18:07:01Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-armv7.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:f97bcb55e130d3a73816b534f6300f68fae8f19c97a6757bd0d8339471e48090",
-      "download_count": 2575,
+      "download_count": 2580,
       "created_at": "2026-06-23T18:07:06Z",
       "updated_at": "2026-06-23T18:07:06Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-armv7.zip.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7,
       "digest": "sha256:4d4bea9cbb2b22fff470b1fb1d3608cac2fee0a1f6ef4d6e35733795784d8be6",
-      "download_count": 4559,
+      "download_count": 4581,
       "created_at": "2026-06-23T18:07:07Z",
       "updated_at": "2026-06-23T18:07:07Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-version.txt"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 24697406,
       "digest": "sha256:0353ff15fa534e610d10b7a7c55d3f10d693bc2fab4d3ec7f7564db6efd22ae4",
-      "download_count": 273219,
+      "download_count": 274885,
       "created_at": "2026-06-23T18:06:48Z",
       "updated_at": "2026-06-23T18:06:50Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-amd64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": "sha256:dc1d074c2396bd37a56fd90b170e9d55ffcc7768870886507c124e5119279ba8",
-      "download_count": 4112,
+      "download_count": 4124,
       "created_at": "2026-06-23T18:07:02Z",
       "updated_at": "2026-06-23T18:07:02Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-amd64.zip.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 22194842,
       "digest": "sha256:55d862722bd755ede21e3f0ed7b3c863af3620b0fb417d17ef14299cbb7f21e9",
-      "download_count": 2926,
+      "download_count": 2932,
       "created_at": "2026-06-23T18:06:50Z",
       "updated_at": "2026-06-23T18:06:51Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-arm64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": "sha256:cc2866b4a398cc2e5f781c24a5b171f25d6a518e14c29c755597543e464d5cce",
-      "download_count": 2629,
+      "download_count": 2634,
       "created_at": "2026-06-23T18:07:03Z",
       "updated_at": "2026-06-23T18:07:03Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-arm64.zip.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 173057277,
       "digest": "sha256:608508197a96407fbc04303d8fa478e907be2c8c80f24b8aaae03d247b364d01",
-      "download_count": 1789972,
+      "download_count": 1798025,
       "created_at": "2026-06-23T18:06:41Z",
       "updated_at": "2026-06-23T18:06:48Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 80,
       "digest": "sha256:bd5344c9e06a3556a83c6b0f71169236a8f4f0afc0be627a94505960e7bc96b5",
-      "download_count": 2624,
+      "download_count": 2629,
       "created_at": "2026-06-23T18:07:01Z",
       "updated_at": "2026-06-23T18:07:01Z",
       "browser_download_url": "https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin.zip.sha256"
