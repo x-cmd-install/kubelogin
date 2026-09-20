@@ -4,7 +4,7 @@
 
 A Kubernetes credential (exec) plugin implementing azure authentication
 
-![kubelogin](https://repo.x-cmd.io/kubelogin.svg)
+[![x-cmd/install — kubelogin Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubelogin.svg)](https://x-cmd.com/install/kubelogin)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 585 · **Forks**: 127 · **Open issues**: 221 · **Contributors**: 2,950
+- **Stars**: 585 · **Forks**: 127 · **Open issues**: 221 · **Contributors**: 2,947
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 5 | 6 | 0 | 1 | 8 |
-| last60d | 2026-07-20 | 0 | 9 | 7 | 0 | 1 | 11 |
-| 90d | 2026-06-20 | 1 | 16 | 8 | 0 | 1 | 19 |
-| last180d | 2026-03-22 | 3 | 43 | 8 | 3 | 3 | 43 |
-| 360d | 2025-09-23 | 8 | 62 | 10 | 13 | 6 | 64 |
-| last720d | 2024-09-28 | 24 | 133 | 12 | 46 | 8 | 136 |
+| 30d | 2026-08-21 | 0 | 5 | 6 | 0 | 1 | 8 |
+| last60d | 2026-07-22 | 0 | 8 | 7 | 0 | 1 | 11 |
+| 90d | 2026-06-22 | 1 | 14 | 7 | 0 | 1 | 13 |
+| last180d | 2026-03-24 | 3 | 43 | 8 | 3 | 3 | 43 |
+| 360d | 2025-09-25 | 8 | 62 | 10 | 13 | 6 | 64 |
+| last720d | 2024-09-30 | 24 | 133 | 12 | 46 | 8 | 136 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubelogin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:50:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:05:52Z._
