@@ -4,7 +4,7 @@
 
 A Kubernetes credential (exec) plugin implementing azure authentication
 
-[![x-cmd/install — kubelogin Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubelogin.svg)](https://x-cmd.com/install/kubelogin)
+[![x-cmd/install — kubelogin Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubelogin.svg)](https://x-cmd.com/install/kubelogin)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 585 · **Forks**: 127 · **Open issues**: 221 · **Contributors**: 2,948
+- **Stars**: 585 · **Forks**: 127 · **Open issues**: 221 · **Contributors**: 2,951
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 347 · **Open PRs**: 13 · **Closed issues**: 193 · **Open issues**: 28 · **Commits**: 356
+- **Releases**: 63 · **Merged PRs**: 347 · **Open PRs**: 15 · **Closed issues**: 193 · **Open issues**: 28 · **Commits**: 356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 7 | 0 | 1 | 8 |
-| last60d | 2026-07-24 | 0 | 8 | 8 | 0 | 1 | 11 |
-| 90d | 2026-06-24 | 0 | 12 | 8 | 0 | 1 | 13 |
-| last180d | 2026-03-26 | 3 | 43 | 9 | 3 | 3 | 43 |
-| 360d | 2025-09-27 | 8 | 62 | 11 | 13 | 6 | 64 |
-| last720d | 2024-10-02 | 24 | 133 | 13 | 46 | 8 | 136 |
+| 30d | 2026-08-24 | 0 | 5 | 9 | 0 | 1 | 8 |
+| last60d | 2026-07-25 | 0 | 8 | 10 | 0 | 1 | 11 |
+| 90d | 2026-06-25 | 0 | 12 | 10 | 0 | 1 | 13 |
+| last180d | 2026-03-27 | 3 | 43 | 11 | 3 | 3 | 43 |
+| 360d | 2025-09-28 | 8 | 62 | 13 | 13 | 6 | 64 |
+| last720d | 2024-10-03 | 24 | 133 | 15 | 46 | 8 | 136 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubelogin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:48:58Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:50:03Z._
