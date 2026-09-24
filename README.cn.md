@@ -42,50 +42,50 @@ x install kubelogin
 
 ## 发布
 
-- **最新版本**: `v0.2.19` (2026-06-23)
-- **最近提交**: 2026-09-16
+- **最新版本**: `v0.2.20` (2026-09-23)
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 585 · **Fork**: 127 · **开放 issue**: 221 · **贡献者**: 2,951
+- **Star**: 585 · **Fork**: 127 · **开放 issue**: 222 · **贡献者**: 2,953
 
 ## 累计统计
 
-- **发布数**: 63 · **已合并 PR**: 347 · **开放 PR**: 15 · **已关闭 issue**: 193 · **开放 issue**: 28 · **提交数**: 356
+- **发布数**: 64 · **已合并 PR**: 349 · **开放 PR**: 15 · **已关闭 issue**: 194 · **开放 issue**: 28 · **提交数**: 358
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 5 | 9 | 0 | 1 | 8 |
-| last60d | 2026-07-25 | 0 | 8 | 10 | 0 | 1 | 11 |
-| 90d | 2026-06-25 | 0 | 12 | 10 | 0 | 1 | 13 |
-| last180d | 2026-03-27 | 3 | 43 | 11 | 3 | 3 | 43 |
-| 360d | 2025-09-28 | 8 | 62 | 13 | 13 | 6 | 64 |
-| last720d | 2024-10-03 | 24 | 133 | 15 | 46 | 8 | 136 |
+| 30d | 2026-08-25 | 1 | 7 | 9 | 1 | 1 | 10 |
+| last60d | 2026-07-26 | 1 | 10 | 10 | 1 | 1 | 13 |
+| 90d | 2026-06-26 | 1 | 14 | 10 | 1 | 1 | 15 |
+| last180d | 2026-03-28 | 4 | 45 | 11 | 4 | 3 | 45 |
+| 360d | 2025-09-29 | 9 | 64 | 13 | 14 | 6 | 66 |
+| last720d | 2024-10-04 | 25 | 135 | 15 | 47 | 8 | 138 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kubelogin-darwin-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-amd64.zip) | 28.4 MiB | `native/darwin/x64` |
-| [kubelogin-darwin-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-amd64.zip.sha256) | 93 B | `native/darwin/x64` |
-| [kubelogin-darwin-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-arm64.zip) | 25.8 MiB | `native/darwin/arm64` |
-| [kubelogin-darwin-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-darwin-arm64.zip.sha256) | 93 B | `native/darwin/arm64` |
-| [kubelogin-linux-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-amd64.zip) | 23.3 MiB | `native/linux/x64` |
-| [kubelogin-linux-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-amd64.zip.sha256) | 92 B | `native/linux/x64` |
-| [kubelogin-linux-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-arm64.zip) | 21.1 MiB | `native/linux/arm64` |
-| [kubelogin-linux-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-arm64.zip.sha256) | 92 B | `native/linux/arm64` |
-| [kubelogin-linux-armv7.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-armv7.zip) | 21.6 MiB | `native/linux/arm` |
-| [kubelogin-linux-armv7.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-linux-armv7.zip.sha256) | 92 B | `native/linux/arm` |
-| [kubelogin-version.txt](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-version.txt) | 7 B | `other` |
-| [kubelogin-win-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-amd64.zip) | 23.6 MiB | `other` |
-| [kubelogin-win-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-amd64.zip.sha256) | 90 B | `other` |
-| [kubelogin-win-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-arm64.zip) | 21.2 MiB | `other` |
-| [kubelogin-win-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin-win-arm64.zip.sha256) | 90 B | `other` |
-| [kubelogin.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin.zip) | 165.0 MiB | `other` |
-| [kubelogin.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.19/kubelogin.zip.sha256) | 80 B | `other` |
+| [kubelogin-darwin-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-darwin-amd64.zip) | 28.4 MiB | `native/darwin/x64` |
+| [kubelogin-darwin-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-darwin-amd64.zip.sha256) | 93 B | `native/darwin/x64` |
+| [kubelogin-darwin-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-darwin-arm64.zip) | 25.9 MiB | `native/darwin/arm64` |
+| [kubelogin-darwin-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-darwin-arm64.zip.sha256) | 93 B | `native/darwin/arm64` |
+| [kubelogin-linux-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-linux-amd64.zip) | 23.3 MiB | `native/linux/x64` |
+| [kubelogin-linux-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-linux-amd64.zip.sha256) | 92 B | `native/linux/x64` |
+| [kubelogin-linux-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-linux-arm64.zip) | 21.1 MiB | `native/linux/arm64` |
+| [kubelogin-linux-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-linux-arm64.zip.sha256) | 92 B | `native/linux/arm64` |
+| [kubelogin-linux-armv7.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-linux-armv7.zip) | 21.6 MiB | `native/linux/arm` |
+| [kubelogin-linux-armv7.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-linux-armv7.zip.sha256) | 92 B | `native/linux/arm` |
+| [kubelogin-version.txt](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-version.txt) | 7 B | `other` |
+| [kubelogin-win-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-win-amd64.zip) | 23.5 MiB | `other` |
+| [kubelogin-win-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-win-amd64.zip.sha256) | 90 B | `other` |
+| [kubelogin-win-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-win-arm64.zip) | 21.2 MiB | `other` |
+| [kubelogin-win-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin-win-arm64.zip.sha256) | 90 B | `other` |
+| [kubelogin.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin.zip) | 165.0 MiB | `other` |
+| [kubelogin.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.20/kubelogin.zip.sha256) | 80 B | `other` |
 
 ## 改进这些数据
 
@@ -96,4 +96,4 @@ kubelogin 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T04:50:03Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T04:40:22Z._
