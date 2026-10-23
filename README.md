@@ -14,11 +14,11 @@ x install kubelogin
 
 ## Code insight
 
-Total: **13,190** lines of code across **117** files in the top 5 languages.
+Total: **13,475** lines of code across **117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,700 | 669 | 1,434 | 102 |
+| Go | 10,985 | 684 | 1,449 | 102 |
 | Yaml | 2,362 | 0 | 0 | 10 |
 | Makefile | 81 | 3 | 18 | 2 |
 | Sh | 26 | 6 | 10 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.2.21` (2026-10-09)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-23
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 586 · **Forks**: 129 · **Open issues**: 222 · **Contributors**: 2,999
+- **Stars**: 586 · **Forks**: 129 · **Open issues**: 222 · **Contributors**: 3,004
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 356 · **Open PRs**: 14 · **Closed issues**: 194 · **Open issues**: 28 · **Commits**: 365
+- **Releases**: 65 · **Merged PRs**: 358 · **Open PRs**: 13 · **Closed issues**: 195 · **Open issues**: 27 · **Commits**: 367
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 5 | 3 | 1 | 0 | 7 |
-| last60d | 2026-08-23 | 2 | 14 | 8 | 1 | 1 | 17 |
-| 90d | 2026-07-24 | 2 | 17 | 9 | 1 | 1 | 20 |
-| last180d | 2026-04-25 | 4 | 50 | 10 | 4 | 3 | 50 |
-| 360d | 2025-10-27 | 9 | 65 | 11 | 11 | 6 | 66 |
-| last720d | 2024-11-01 | 26 | 139 | 14 | 46 | 8 | 144 |
+| 30d | 2026-09-23 | 2 | 5 | 2 | 0 | 0 | 9 |
+| last60d | 2026-08-24 | 2 | 16 | 7 | 1 | 1 | 19 |
+| 90d | 2026-07-25 | 2 | 19 | 8 | 1 | 1 | 22 |
+| last180d | 2026-04-26 | 4 | 52 | 9 | 4 | 3 | 52 |
+| 360d | 2025-10-28 | 9 | 67 | 10 | 11 | 5 | 68 |
+| last720d | 2024-11-02 | 26 | 141 | 13 | 46 | 8 | 146 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubelogin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:40:33Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:56:25Z._
