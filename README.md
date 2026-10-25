@@ -42,50 +42,50 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.2.21` (2026-10-09)
+- **Latest**: `v0.2.22` (2026-10-24)
 - **Last commit**: 2026-10-24
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 586 · **Forks**: 129 · **Open issues**: 222 · **Contributors**: 3,005
+- **Stars**: 586 · **Forks**: 129 · **Open issues**: 222 · **Contributors**: 3,002
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 359 · **Open PRs**: 13 · **Closed issues**: 195 · **Open issues**: 27 · **Commits**: 368
+- **Releases**: 66 · **Merged PRs**: 359 · **Open PRs**: 13 · **Closed issues**: 196 · **Open issues**: 26 · **Commits**: 368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 6 | 2 | 0 | 0 | 10 |
-| last60d | 2026-08-25 | 2 | 17 | 7 | 1 | 1 | 20 |
-| 90d | 2026-07-26 | 2 | 20 | 8 | 1 | 1 | 23 |
-| last180d | 2026-04-27 | 4 | 53 | 9 | 4 | 3 | 53 |
-| 360d | 2025-10-29 | 9 | 68 | 10 | 11 | 5 | 69 |
-| last720d | 2024-11-03 | 26 | 142 | 13 | 46 | 8 | 147 |
+| 30d | 2026-09-25 | 2 | 6 | 2 | 0 | 0 | 10 |
+| last60d | 2026-08-26 | 3 | 17 | 7 | 2 | 0 | 20 |
+| 90d | 2026-07-27 | 3 | 20 | 8 | 2 | 0 | 23 |
+| last180d | 2026-04-28 | 5 | 53 | 9 | 5 | 2 | 53 |
+| 360d | 2025-10-30 | 10 | 68 | 10 | 12 | 4 | 69 |
+| last720d | 2024-11-04 | 27 | 141 | 13 | 47 | 7 | 147 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kubelogin-darwin-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-darwin-amd64.zip) | 28.4 MiB | `native/darwin/x64` |
-| [kubelogin-darwin-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-darwin-amd64.zip.sha256) | 93 B | `native/darwin/x64` |
-| [kubelogin-darwin-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-darwin-arm64.zip) | 25.9 MiB | `native/darwin/arm64` |
-| [kubelogin-darwin-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-darwin-arm64.zip.sha256) | 93 B | `native/darwin/arm64` |
-| [kubelogin-linux-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-linux-amd64.zip) | 23.3 MiB | `native/linux/x64` |
-| [kubelogin-linux-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-linux-amd64.zip.sha256) | 92 B | `native/linux/x64` |
-| [kubelogin-linux-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-linux-arm64.zip) | 21.1 MiB | `native/linux/arm64` |
-| [kubelogin-linux-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-linux-arm64.zip.sha256) | 92 B | `native/linux/arm64` |
-| [kubelogin-linux-armv7.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-linux-armv7.zip) | 21.7 MiB | `native/linux/arm` |
-| [kubelogin-linux-armv7.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-linux-armv7.zip.sha256) | 92 B | `native/linux/arm` |
-| [kubelogin-version.txt](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-version.txt) | 7 B | `other` |
-| [kubelogin-win-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-win-amd64.zip) | 23.6 MiB | `other` |
-| [kubelogin-win-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-win-amd64.zip.sha256) | 90 B | `other` |
-| [kubelogin-win-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-win-arm64.zip) | 21.2 MiB | `other` |
-| [kubelogin-win-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin-win-arm64.zip.sha256) | 90 B | `other` |
-| [kubelogin.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin.zip) | 165.1 MiB | `other` |
-| [kubelogin.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.21/kubelogin.zip.sha256) | 80 B | `other` |
+| [kubelogin-darwin-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-darwin-amd64.zip) | 28.4 MiB | `native/darwin/x64` |
+| [kubelogin-darwin-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-darwin-amd64.zip.sha256) | 93 B | `native/darwin/x64` |
+| [kubelogin-darwin-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-darwin-arm64.zip) | 25.9 MiB | `native/darwin/arm64` |
+| [kubelogin-darwin-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-darwin-arm64.zip.sha256) | 93 B | `native/darwin/arm64` |
+| [kubelogin-linux-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-linux-amd64.zip) | 23.3 MiB | `native/linux/x64` |
+| [kubelogin-linux-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-linux-amd64.zip.sha256) | 92 B | `native/linux/x64` |
+| [kubelogin-linux-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-linux-arm64.zip) | 21.1 MiB | `native/linux/arm64` |
+| [kubelogin-linux-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-linux-arm64.zip.sha256) | 92 B | `native/linux/arm64` |
+| [kubelogin-linux-armv7.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-linux-armv7.zip) | 21.7 MiB | `native/linux/arm` |
+| [kubelogin-linux-armv7.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-linux-armv7.zip.sha256) | 92 B | `native/linux/arm` |
+| [kubelogin-version.txt](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-version.txt) | 7 B | `other` |
+| [kubelogin-win-amd64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-win-amd64.zip) | 23.6 MiB | `other` |
+| [kubelogin-win-amd64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-win-amd64.zip.sha256) | 90 B | `other` |
+| [kubelogin-win-arm64.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-win-arm64.zip) | 21.2 MiB | `other` |
+| [kubelogin-win-arm64.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin-win-arm64.zip.sha256) | 90 B | `other` |
+| [kubelogin.zip](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin.zip) | 165.2 MiB | `other` |
+| [kubelogin.zip.sha256](https://github.com/Azure/kubelogin/releases/download/v0.2.22/kubelogin.zip.sha256) | 80 B | `other` |
 
 ## Improve this data
 
@@ -96,4 +96,4 @@ Install metadata for kubelogin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:30:26Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:33:38Z._
