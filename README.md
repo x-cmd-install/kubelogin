@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 586 · **Forks**: 129 · **Open issues**: 222 · **Contributors**: 3,002
+- **Stars**: 586 · **Forks**: 129 · **Open issues**: 222 · **Contributors**: 3,001
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 6 | 2 | 0 | 0 | 10 |
-| last60d | 2026-08-26 | 3 | 17 | 7 | 2 | 0 | 20 |
-| 90d | 2026-07-27 | 3 | 20 | 8 | 2 | 0 | 23 |
-| last180d | 2026-04-28 | 5 | 53 | 9 | 5 | 2 | 53 |
-| 360d | 2025-10-30 | 10 | 68 | 10 | 12 | 4 | 69 |
-| last720d | 2024-11-04 | 27 | 141 | 13 | 47 | 7 | 147 |
+| 30d | 2026-09-26 | 2 | 6 | 2 | 0 | 0 | 7 |
+| last60d | 2026-08-27 | 3 | 17 | 7 | 2 | 0 | 19 |
+| 90d | 2026-07-28 | 3 | 20 | 8 | 2 | 0 | 23 |
+| last180d | 2026-04-29 | 5 | 53 | 9 | 5 | 2 | 52 |
+| 360d | 2025-10-31 | 10 | 68 | 10 | 12 | 4 | 69 |
+| last720d | 2024-11-05 | 27 | 140 | 13 | 46 | 7 | 147 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubelogin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:33:38Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:42:41Z._
