@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 5 | 3 | 0 | 0 | 7 |
-| last60d | 2026-09-01 | 3 | 14 | 5 | 2 | 0 | 19 |
-| 90d | 2026-08-02 | 3 | 20 | 9 | 2 | 0 | 23 |
-| last180d | 2026-05-04 | 5 | 52 | 10 | 5 | 2 | 52 |
-| 360d | 2025-11-05 | 10 | 68 | 11 | 11 | 3 | 69 |
-| last720d | 2024-11-10 | 27 | 139 | 14 | 46 | 7 | 144 |
+| 30d | 2026-10-02 | 2 | 5 | 3 | 0 | 0 | 3 |
+| last60d | 2026-09-02 | 3 | 14 | 5 | 2 | 0 | 19 |
+| 90d | 2026-08-03 | 3 | 20 | 9 | 2 | 0 | 23 |
+| last180d | 2026-05-05 | 5 | 52 | 10 | 5 | 2 | 52 |
+| 360d | 2025-11-06 | 10 | 68 | 11 | 11 | 3 | 67 |
+| last720d | 2024-11-11 | 27 | 139 | 14 | 46 | 7 | 144 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubelogin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:38:51Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:54:37Z._
