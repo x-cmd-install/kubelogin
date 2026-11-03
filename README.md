@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.2.22` (2026-10-24)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-03
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 586 · **Forks**: 129 · **Open issues**: 222 · **Contributors**: 3,019
+- **Stars**: 586 · **Forks**: 129 · **Open issues**: 222 · **Contributors**: 3,021
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 359 · **Open PRs**: 14 · **Closed issues**: 196 · **Open issues**: 26 · **Commits**: 368
+- **Releases**: 66 · **Merged PRs**: 364 · **Open PRs**: 9 · **Closed issues**: 196 · **Open issues**: 26 · **Commits**: 373
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 5 | 3 | 0 | 0 | 3 |
-| last60d | 2026-09-03 | 3 | 14 | 5 | 2 | 0 | 19 |
-| 90d | 2026-08-04 | 3 | 20 | 9 | 2 | 0 | 23 |
-| last180d | 2026-05-06 | 5 | 52 | 10 | 5 | 2 | 52 |
-| 360d | 2025-11-07 | 10 | 67 | 11 | 11 | 3 | 67 |
-| last720d | 2024-11-12 | 27 | 139 | 14 | 45 | 7 | 144 |
+| 30d | 2026-10-04 | 2 | 8 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-04 | 3 | 18 | 1 | 2 | 0 | 24 |
+| 90d | 2026-08-05 | 3 | 25 | 4 | 2 | 0 | 28 |
+| last180d | 2026-05-07 | 5 | 57 | 5 | 5 | 2 | 57 |
+| 360d | 2025-11-08 | 10 | 72 | 6 | 11 | 3 | 72 |
+| last720d | 2024-11-13 | 27 | 144 | 9 | 45 | 7 | 149 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubelogin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:56:15Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:45:04Z._
